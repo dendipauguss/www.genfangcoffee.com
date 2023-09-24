@@ -59,7 +59,7 @@ $_SESSION['id_order']=$iod;
         <input type="hidden" name="status">
     </td>
     <td width="200px">
-      <label  class="control-label" style="margin-left: 10px; margin-bottom: -30px;: ">
+      <label  class="control-label" style="margin-left: 10px; margin-bottom: -30px; ">
         <button type="submit" id="add-row" class="btn btn-info" value="Add Row" style="float: right;">Pilih</button>
         </label>
     </td>
