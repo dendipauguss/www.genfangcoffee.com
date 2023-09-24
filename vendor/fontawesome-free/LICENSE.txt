@@ -1,0 +1,66 @@
+Font Awesome Free License
+-------------------------
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+In the Font Awesome Free download, the CC BY 4.0 license applies to all icons
+packaged as SVG and JS file types.
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
+
+# Code: MIT License (https://opensource.org/licenses/MIT)
+In the Font Awesome Free download, the MIT license applies to all non-font and
+non-icon files.
+
+# Attribution
+Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
+Awesome Free files already contain embedded comments with sufficient
+attribution, so you shouldn't need to do anything additional when using these
+files normally.
+
+We've kept attribution comments terse, so we ask that you do not actively work
+to remove them from files, especially code. They're a great way for folks to
+learn about Font Awesome.
+
+# Brand Icons
+All brand icons are trademarks of their respective owners. The use of these
+trademarks does not indicate endorsement of the trademark holder by Font
+Awesome, nor vice versa. **Please do not use brand logos for any purpose except
+to represent the company, product, or service to which they refer.**
+--------------------------------------------------------------------------------------
+Font Awesome Free gratis, open source, dan ramah GPL. Anda dapat menggunakannya untuk
+proyek komersial, proyek sumber terbuka, atau hampir apa pun yang Anda inginkan.
+Lisensi Full Font Awesome Gratis: https://fontawesome.com/license/free.
+
+# Ikon: Lisensi CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Dalam unduhan Font Awesome Free, lisensi CC BY 4.0 berlaku untuk semua ikon
+dikemas sebagai tipe file SVG dan JS.
+
+# Font: Lisensi SIL OFL 1.1 (https://scripts.sil.org/OFL)
+Dalam unduhan Font Awesome Free, lisensi SIL OFL berlaku untuk semua ikon
+dikemas sebagai file font web dan desktop.
+
+# Code: Lisensi MIT (https://opensource.org/licenses/MIT)
+Dalam unduhan Font Awesome Free, lisensi MIT berlaku untuk semua non-font dan
+file non-ikon.
+
+# Atribusi
+Atribusi diperlukan oleh lisensi MIT, SIL OFL, dan CC BY. Font yang Diunduh
+File luar biasa Gratis sudah mengandung komentar tertanam dengan cukup
+atribusi, jadi Anda tidak perlu melakukan hal tambahan saat menggunakan ini
+file secara normal.
+
+Kami telah menyimpan komentar atribusi singkat, jadi kami meminta Anda tidak bekerja secara aktif
+untuk menghapusnya dari file, terutama kode. Mereka cara yang bagus untuk orang-orang
+pelajari tentang Font Awesome.
+
+# Ikon Merek
+Semua ikon merek adalah merek dagang dari pemiliknya masing-masing. Penggunaan ini
+merek dagang tidak menunjukkan pengesahan pemegang merek dagang oleh Font
+Luar biasa, begitu juga sebaliknya. ** Harap tidak menggunakan logo merek untuk tujuan apa pun kecuali
+untuk mewakili perusahaan, produk, atau layanan yang mereka rujuk.
